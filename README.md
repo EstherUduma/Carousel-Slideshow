@@ -9,7 +9,7 @@ This repository is Introduction-to-Javascript-Week-6-and-7 task given by zuri. I
 
 - <b>HTML</b>
 - <b>CSS</b>
-- <b>HTML</b>
+- <b>JavaScript</b>
 
 <h2>Environments Used </h2>
 
