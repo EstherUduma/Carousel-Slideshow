@@ -1,7 +1,7 @@
 <h1>Introduction-to-Javascript-Week-6-and-7</h1>
 
 <h2>Description</h2>
-This repository is Introduction-to-Javascript-Week-6-and-7 task given by zuri. It is a Todo App created with Mongodb.
+This repository is Introduction-to-Javascript-Week-6-and-7 task given by zuri. It is a Carousel/Slideshow with 6 different images of my choice.
 <br />
 
 
@@ -9,7 +9,7 @@ This repository is Introduction-to-Javascript-Week-6-and-7 task given by zuri. I
 
 - <b>HTML</b>
 - <b>CSS</b>
-- <b>NodeJs</b>
+- <b>JavaScript</b>
 
 <h2>Environments Used </h2>
 
