@@ -1,4 +1,4 @@
-<h1>Introduction-to-Javascript-Week-6-and-7</h1>
+<h1>Carousel/Slideshow</h1>
 
 <h2>Description</h2>
 This repository is Introduction-to-Javascript-Week-6-and-7 task given by zuri. It is a Carousel/Slideshow with 6 different images of my choice.
