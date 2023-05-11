@@ -5,7 +5,7 @@ This repository is Introduction-to-Javascript-Week-6-and-7 task given by zuri. I
 <br />
 
 <h2>Hosted Page Link</h2>
-https://estheruduma.github.io/Introduction-to-Javascript-Week-6-and-7/
+https://estheruduma.github.io/Carousel-Slideshow/
 
 <h2>Languages and Utilities Used</h2>
 
